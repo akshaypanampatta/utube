@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:58:49	39693/39693	---M-Z	200	added ('OK')	text/html	date:Sat,%2025%20Sep%202021%2013:38:55%20GMT	https://harnishdesign.net/demo/html/callum/index-rtl.html	C:/My%20Web%20Sites/web/harnishdesign.net/demo/html/callum/index-rtl.html	(from )
+11:58:51	29/29	---M--	200	added ('OK')	text/plain	date:Mon,%2013%20Mar%202023%2010:29:08%20GMT	https://harnishdesign.net/robots.txt		(from )

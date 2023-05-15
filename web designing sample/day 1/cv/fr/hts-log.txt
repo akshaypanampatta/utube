@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 May 2023 09:20:32 at https://wpriverthemes.com/landing/gridx-html/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wpriverthemes.com/landing/gridx-html/index.html -O1 "C:\Users\akshay p\Desktop\fr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:21:14	Error: 	"Connect Error" (-4) after 2 retries at link https://wpriverthemes.com/robots.txt (from primary/primary)
+09:21:14	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/index.html (from primary/primary)
+09:22:15	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/assets/css/aos.css (from https://wpriverthemes.com/landing/gridx-html/index.html)
+09:23:53	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/assets/images/me2.png (from https://wpriverthemes.com/landing/gridx-html/about.html)
+09:23:53	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/work-details.html (from https://wpriverthemes.com/landing/gridx-html/works.html)
+09:24:14	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/assets/images/blog2.jpeg (from https://wpriverthemes.com/landing/gridx-html/blog.html)
+09:24:14	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/true/ (from https://wpriverthemes.com/landing/gridx-html/assets/js/jquery-3.6.4.js)
+09:24:14	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/dist/ (from https://wpriverthemes.com/landing/gridx-html/assets/js/aos.js)
+09:24:15	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/assets/images/me2.png (from https://wpriverthemes.com/landing/gridx-html/about.html)
+09:24:38	Warning: 	Retry after error -4 (Connect Error) at link https://wpriverthemes.com/landing/gridx-html/true/ (from https://wpriverthemes.com/landing/gridx-html/assets/js/jquery-3.6.4.js)
+09:24:38	Error: 	"Not Found" (404) at link https://wpriverthemes.com/landing/gridx-html/dist/ (from https://wpriverthemes.com/landing/gridx-html/assets/js/aos.js)
+09:24:38	Error: 	"Connect Error" (-4) after 2 retries at link https://wpriverthemes.com/landing/gridx-html/assets/images/me2.png (from https://wpriverthemes.com/landing/gridx-html/about.html)
+09:24:59	Error: 	"Connect Error" (-4) after 2 retries at link https://wpriverthemes.com/landing/gridx-html/true/ (from https://wpriverthemes.com/landing/gridx-html/assets/js/jquery-3.6.4.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 27 seconds : 52 links scanned, 39 files written (3495807 bytes overall) [1040167 bytes received at 3895 bytes/sec], 2865695 bytes transferred using HTTP compression in 22 files, ratio 12%, 1.5 requests per connection
+(4 errors, 9 warnings, 0 messages)

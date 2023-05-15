@@ -1,0 +1,36 @@
+button{
+    color: brown;
+    background-color: black;
+}
+#pr1{
+    color: blue;
+}
+#pr2{
+    color: brown;
+}
+.unni{
+    color: blueviolet;
+    background-color: aqua;
+    
+}
+.outer-box{
+width: 300px;
+height: 150px;
+background-color: black;
+color: azure;
+margin-left: 540px;
+margin-top: 120px;
+padding-left: 10px;
+padding-top: 5px;
+border: 10px solid;
+border-color: rgb(255, 68, 0);
+
+
+}
+
+.inner-div {
+    margin: 5px;
+    background-color: aquamarine;
+    width: 150px;
+    height: 80px;
+}

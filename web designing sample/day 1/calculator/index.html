@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="class.js"></script>
+</head>
+<body>
+    <div class="calculator">
+        <div ><p class="heading">Calculator!</p></div>
+        <div class="output">
+            <input type="text" id="screen">
+        </div>
+        <div class="row">
+            <button onclick="buttonclick(7)" class="cli">7</button>
+            <button onclick="buttonclick(8)" class="cli">8</button>
+            <button onclick="buttonclick(9)" class="cli">9</button>
+            <button onclick="buttonclick('/')" class="cli">/</button>
+        </div>
+        <div class="row">
+            <button onclick="buttonclick(4)" class="cli">4</button>
+            <button onclick="buttonclick(5)" class="cli">5</button>
+            <button onclick="buttonclick(6)" class="cli">6</button>
+            <button onclick="buttonclick('*')" class="cli">x</button>
+        </div>
+        <div class="row">
+            <button onclick="buttonclick(1)" class="cli">1</button>
+            <button onclick="buttonclick(2)" class="cli">2</button>
+            <button onclick="buttonclick(3)" class="cli">3</button>
+            <button onclick="buttonclick('+')" class="cli">+</button>
+        </div>
+        <div class="row">
+            <button onclick="buttonclick('-')" class="cli">-</button>
+            <button onclick="buttonclick('.')" class="cli">.</button>
+            <button onclick="buttonclick(0)" class="cli">0</button>
+            <button onclick="equalto()" class="cli">=</button>
+        </div>
+        <div><button onclick="cleardisplay()" class="clearr">clear</button></div>
+
+
+
+
+
+    </div>
+    
+</body>
+</html>

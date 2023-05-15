@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+#class{
+width:400px;
+height: 400px;
+border: solid 1px;
+
+}
+</style>  
+
+<body>
+    <div id="class">
+
+    </div>
+            <button onclick="color ('red')">red</button>
+            <button onclick="color ('blue')">blue</button>
+            <button onclick="color ('yellow')">yellow</button>
+            <button onclick="color ('green')">green</button>
+
+            <script>
+                function color(col){
+                    document.getElementById("class").style.background=col
+                }
+            </script>
+
+        
+
+    
+</body>
+</html>
